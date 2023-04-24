@@ -87,8 +87,8 @@ git clone https://github.com/THUDM/ChatGLM-6B.git
 ```
 
 以下是下载完成时的样例：
-
-![image-20230423114424398](D:/chan_save/tppora/image-20230423114424398.png)
+[
+![image-20230423114424398](D:/chan_save/tppora/image-20230423114424398.png)](https://github.com/chanshengning/LLM/blob/main/image-20230423114424398.png)
 
 ###  2.2 加载模型文件
 
