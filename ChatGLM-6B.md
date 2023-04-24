@@ -98,15 +98,15 @@ git clone https://huggingface.co/THUDM/chatglm-6b
 
 以下是下载完成时的样例：
 
-https://github.com/chanshengning/LLM/blob/main/image-20230423114502182.png
+[https://github.com/chanshengning/LLM/blob/main/image-20230423114502182.png](https://github.com/chanshengning/LLM/blob/main/image-20230423114502182.png)
 
 在下载模型文件和模型的时候我都是使用的Git，在下载的启动文件中新建一个目录存放chatglm-6b模型（这里我新建了/chatglm-6b/用来存放模型文件）
 
-![image-20230423114753578](D:/chan_save/tppora/image-20230423114753578.png)
+[![image-20230423114753578](D:/chan_save/tppora/image-20230423114753578.png)](https://github.com/chanshengning/LLM/blob/main/image-20230423114753578.png)
 
 注：在模型文件中存在以下pytorch开头的文件基本上都是1G以上，模型文件太大，下载可能很慢，可以先下小文件，之后用[清华源](https://so.csdn.net/so/search?q=清华源&spm=1001.2101.3001.7020)下载大模型（我自己下载没出现很慢的情况）
 
-![image-20230423115551747](D:/chan_save/tppora/image-20230423115551747.png)
+[![image-20230423115551747](D:/chan_save/tppora/image-20230423115551747.png)](https://github.com/chanshengning/LLM/blob/main/image-20230423115551747.png)
 
 
 
