@@ -98,7 +98,7 @@ git clone https://huggingface.co/THUDM/chatglm-6b
 
 以下是下载完成时的样例：
 
-![image-20230423114502182](D:/chan_save/tppora/image-20230423114502182.png)
+https://github.com/chanshengning/LLM/blob/main/image-20230423114502182.png
 
 在下载模型文件和模型的时候我都是使用的Git，在下载的启动文件中新建一个目录存放chatglm-6b模型（这里我新建了/chatglm-6b/用来存放模型文件）
 
